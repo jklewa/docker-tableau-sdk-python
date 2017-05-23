@@ -22,7 +22,7 @@ docker run --rm -it \
 
 * `latest` [(Dockerfile)](https://github.com/jklewa/docker-tableau-sdk-python/blob/master/Dockerfile)
 
-  ![Image size](https://img.shields.io/badge/image%20size-176MB-blue.svg)
+  ![Image size](https://img.shields.io/badge/image%20size-101MB-blue.svg)
 
 ## Useful links
 * [Tableau SDK Community Page](https://community.tableau.com/community/developers/tableau-sdk)
