@@ -1,6 +1,11 @@
 # tableau-sdk-python
 
-## Info
+[![dockeri.co](http://dockeri.co/image/jklewa/tableau-sdk-python)](https://hub.docker.com/r/jklewa/tableau-sdk-python/)
+
+[![MIT License](https://img.shields.io/github/license/mkenney/docker-npm.svg)](https://raw.githubusercontent.com/jklewa/docker-tableau-sdk-python/master/LICENSE) [![Github issues](https://img.shields.io/github/issues-raw/mkenney/docker-npm.svg)](https://github.com/mkenney/docker-npm/issues)
+
+## Portable `tableausdk` Python lib
+
 * Tableau SDK Version: 10.2.2 ([docs](https://onlinehelp.tableau.com/current/api/sdk/en-us/help.htm))
 * Python Version: 2.7.5 ([docs](https://docs.python.org/release/2.7.5/))
 * Base OS: [Centos 7](https://hub.docker.com/_/centos/)
