@@ -2,7 +2,7 @@
 
 [![dockeri.co](http://dockeri.co/image/jklewa/tableau-sdk-python)](https://hub.docker.com/r/jklewa/tableau-sdk-python/)
 
-[![MIT License](https://img.shields.io/github/license/mkenney/docker-npm.svg)](https://raw.githubusercontent.com/jklewa/docker-tableau-sdk-python/master/LICENSE) [![Github issues](https://img.shields.io/github/issues-raw/mkenney/docker-npm.svg)](https://github.com/mkenney/docker-npm/issues)
+[![MIT License](https://img.shields.io/github/license/mkenney/docker-npm.svg)](https://raw.githubusercontent.com/jklewa/docker-tableau-sdk-python/master/LICENSE) [![Github issues](https://img.shields.io/github/issues-raw/jklewa/docker-tableau-sdk-python.svg)](https://github.com/jklewa/docker-tableau-sdk-python/issues)
 
 ## Portable `tableausdk` Python lib
 
