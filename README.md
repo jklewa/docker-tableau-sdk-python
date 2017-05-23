@@ -15,8 +15,7 @@
 ```bash
 docker run --rm -it \
     -v $PWD:/src \
-    jklewa/tableau-sdk-python \
-    bash
+    jklewa/tableau-sdk-python
 ```
 
 ## Tagged Dockerfiles

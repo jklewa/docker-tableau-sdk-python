@@ -11,5 +11,7 @@ RUN set -ex \
     && tar -xzf SDK.tar.gz -C /sdk --strip-components=1 \
     && rm SDK.tar.gz \
     && cd /sdk \
-    && python setup.py install
+    && python setup.py install \
+    && rm -rf /sdk \
+    && yum clean all
 
