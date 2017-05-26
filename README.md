@@ -8,7 +8,7 @@
 
 * Tableau SDK Version: 10.2.2 ([docs](https://onlinehelp.tableau.com/current/api/sdk/en-us/help.htm))
 * Python Version: 2.7.5 ([docs](https://docs.python.org/release/2.7.5/))
-* Base OS: [Centos 7](https://hub.docker.com/_/centos/)
+* Base OS: [Centos 7](https://hub.docker.com/_/centos/) or [Python2.7](https://hub.docker.com/_/python/)
 * Package Manager: yum ([docs](https://www.centos.org/docs/5/html/yum/))
 
 ## Usage
