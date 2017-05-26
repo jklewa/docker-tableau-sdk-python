@@ -21,9 +21,11 @@ docker run --rm -it \
 ## Tagged Dockerfiles
 
 * `latest` [(Dockerfile)](https://github.com/jklewa/docker-tableau-sdk-python/blob/master/Dockerfile)  A `centos:7` based container
+
   ![Image size](https://img.shields.io/badge/image%20size-101MB-blue.svg)
 
 * `python2.7` [(Dockerfile)](https://github.com/jklewa/docker-tableau-sdk-python/blob/master/Dockerfile-python2.7)  A `python:2.7` based container
+
   ![Image size](https://img.shields.io/badge/image%20size-314MB-blue.svg)
 
 ## Useful links
