@@ -2,7 +2,7 @@ FROM centos:7
 
 WORKDIR /src
 
-ENV TABLEAU_SDK_VERSION 10-2-2
+ENV TABLEAU_SDK_VERSION 10-3-3
 
 RUN set -ex \
     && yum install -y wget \

@@ -6,10 +6,16 @@
 
 ## Portable `tableausdk` Python lib
 
-* Tableau SDK Version: 10.2.2 ([docs](https://onlinehelp.tableau.com/current/api/sdk/en-us/help.htm))
-* Python Version: 2.7.5 ([docs](https://docs.python.org/release/2.7.5/))
-* Base OS: [Centos 7](https://hub.docker.com/_/centos/) or [Debian Jessie (Python2.7)](https://hub.docker.com/_/python/)
+* Tableau SDK Version: 10.3.3 ([docs](https://onlinehelp.tableau.com/current/api/sdk/en-us/help.htm))
 * Package Manager: yum ([docs](https://www.centos.org/docs/5/html/yum/))
+
+### `latest`
+* Python Version: 2.7.5 ([docs](https://docs.python.org/release/2.7.5/))
+* OS: [Centos 7](https://hub.docker.com/_/centos/)
+
+### `python2.7`
+* Python Version: 2.7.14+ ([docs](https://docs.python.org/release/2.7.14/))
+* OS: [Debian Jessie (Python2.7)](https://hub.docker.com/_/python/)
 
 ## Usage
 ```bash
